@@ -28,7 +28,7 @@ class LoginPage extends StatelessWidget {
 
                 const SizedBox(height: 50),
                 Text(
-                  'Welcome , I Hope You are diong Well',
+                  'Welcome , I Hope You are doing Well',
                   style: TextStyle(color: Colors.grey[700], fontSize: 15),
                 ),
 
